@@ -73,13 +73,6 @@ FinTech environments.
 
 ---
 
-## Libraries Required
-```bash
-pip install pandas numpy scikit-learn 
-matplotlib seaborn imbalanced-learn
-
-
-
 ## How to Run
 
 1. Download `creditcard.csv` from Kaggle:
