@@ -1,4 +1,3 @@
-# fraud-detection-fintech
 # Credit Card Fraud Detection — FinTech Analysis
 
 ## Project Overview
@@ -79,6 +78,8 @@ FinTech environments.
 pip install pandas numpy scikit-learn 
 matplotlib seaborn imbalanced-learn
 
+
+
 ## How to Run
 
 1. Download `creditcard.csv` from Kaggle:
@@ -100,6 +101,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ---
 
 ## Dashboard Preview
+
 
 ![Dashboard Preview](dashboard_preview.png)
 
