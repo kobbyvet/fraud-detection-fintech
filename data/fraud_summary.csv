@@ -1,0 +1,2 @@
+total_transactions,total_fraud,fraud_pct,avg_legitimate_amount,avg_fraud_amount,model_auc,best_threshold,fraud_caught_at_best,false_blocks_at_best
+284807,492,0.17,88.29,122.21,0.9722,0.9,87,266
