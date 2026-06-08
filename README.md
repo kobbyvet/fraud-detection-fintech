@@ -79,7 +79,6 @@ FinTech environments.
 pip install pandas numpy scikit-learn 
 matplotlib seaborn imbalanced-learn
 
-
 How to Run
 Download creditcard.csv from Kaggle:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
@@ -93,7 +92,9 @@ Data Source
 ULB Machine Learning Group — Credit Card
 Fraud Detection Dataset
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-Dashboard Preview
-�
-Load image
+## Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
+
+
+---
 Created by Benjamin Dadzie | June 2026
